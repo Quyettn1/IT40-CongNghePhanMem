@@ -1,0 +1,56 @@
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database\Database1.mdf
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database\Database1_log.ldf
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_login.resources
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_nhanvien.resources
+C:\Users\Administrator\Desktop\it59\code C#\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_quanly.resources
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_login.resources
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_nhanvien.resources
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_quanly.resources
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database\Database1.mdf
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database\Database1_log.ldf
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\it59\code C\VISUA STDIO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database\Database1.mdf
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database\Database1_log.ldf
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_login.resources
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_nhanvien.resources
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_quanly.resources
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\it59\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database\Database1.mdf
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database\Database1_log.ldf
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_login.resources
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_nhanvien.resources
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_quanly.resources
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\IT59_TranNgocQuyet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
